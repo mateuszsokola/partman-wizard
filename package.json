@@ -1,0 +1,43 @@
+{
+  "name": "partman-wizard",
+  "version": "0.0.1",
+  "description": "This utility will help you with partitioning your tables in PostgreSQL databases",
+  "main": "index.mjs",
+  "bin": {
+    "partman-wizard": "./index.mjs"
+  },
+  "scripts": {
+    "start": "node ./index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateuszsokola/partman-wizard.git"
+  },
+  "keywords": [
+    "partman",
+    "postgres",
+    "postgresql",
+    "pg_partman",
+    "cli",
+    "command line",
+    "wizard",
+    "table",
+    "database",
+    "rdbms",
+    "partitioning",
+    "nodejs",
+    "node"
+  ],
+  "author": "Mateusz Sokola (https://mateu.sh/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mateuszsokola/partman-wizard/issues"
+  },
+  "homepage": "https://github.com/mateuszsokola/partman-wizard#readme",
+  "dependencies": {
+    "@inquirer/prompts": "5.3.8",
+    "chalk": "5.3.0",
+    "commander": "12.1.0",
+    "pg": "8.12.0"
+  }
+}
