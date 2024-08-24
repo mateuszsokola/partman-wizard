@@ -34,9 +34,11 @@ SELECT partman.run_maintenance();
 ```
 
 # Feedback & Contributions
+
 If you find this tool useful, consider giving it a star on [GitHub](https://github.com/mateuszsokola/partman-wizard). For bug reports or contributions, please visit the [GitHub repository](https://github.com/mateuszsokola/partman-wizard).
 
 # License
+
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/mateuszsokola/partman-wizard/blob/main/LICENSE) file for details.
 
 <hr>

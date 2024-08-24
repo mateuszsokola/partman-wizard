@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { Command } from "commander";
 import { startWizard } from "./core/wizard.mjs";
 
@@ -7,7 +9,7 @@ program
   .description(
     "This utility will help you with partitioning your tables in PostgreSQL databases.\n\n Your postgres instance must have pg_partman extension installed.",
   )
-  .version("0.0.1");
+  .version("0.0.2");
 
 program.parse(process.argv);
 

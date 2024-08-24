@@ -1,6 +1,6 @@
 {
   "name": "partman-wizard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This utility will help you with partitioning your tables in PostgreSQL databases",
   "main": "index.mjs",
   "bin": {
