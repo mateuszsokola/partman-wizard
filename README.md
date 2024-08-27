@@ -2,9 +2,7 @@
 
 **Partman Wizard** is a CLI tool designed to help you partition PostgreSQL tables using the `pg_partman` extension. This tool guides you through the process of setting up table partitions and migrating data efficiently.
 
-If you need PostgreSQL-as-a-Service with support for the `pg_partman` extension, consider [Neon](https://neon.tech/).
-
-PS. They have a FREE-TIER 💸
+If you need PostgreSQL-as-a-Service with support for the `pg_partman` extension, consider [Neon](https://neon.tech/). PS. They have a FREE-TIER 💸
 
 ## What this bad boy can do?
 
@@ -12,6 +10,10 @@ PS. They have a FREE-TIER 💸
 - Migrate data from source tables to partitioned ones
 
 It works like magic ✨
+
+## Watch on YT
+
+[![How To Use Partman Wizard](./yt.png)](https://youtu.be/t4qqf-Z0CKc)
 
 ## Usage
 
